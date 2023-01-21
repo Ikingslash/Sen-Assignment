@@ -1,0 +1,165 @@
+@font-face {
+  font-family: myFont;
+  src: url(Chi.ttf);
+}
+@font-face {
+  font-family: myFont1;
+  src: url(Script.ttf);
+}
+
+@font-face {
+  font-family: myFont2;
+  src: url(Jinks.ttf);
+}
+@font-face {
+  font-family: myFont3;
+  src: url(Matic.TTF);
+}
+@font-face {
+  font-family: myFont4;
+  src: url(Frank.otf);
+}
+.logo{
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: 30px;
+}
+
+.container{
+  list-style: none;
+  display: flex;
+  font-size: 25px;
+ 
+}
+.items{
+  padding-right: 30px;
+  margin-top: 40px;
+  
+}
+.items a{
+  color: black;
+  font-weight: 100;
+  text-decoration: none;
+  font-family: myFont;
+}
+
+.items a:hover{
+  color: #404f24;
+}
+
+.img_1{
+   float: right;
+   display: flex;
+   margin-right: 270px;
+
+}
+.img_2{
+  float: right;
+  display: flex;
+  margin-right: 90px;
+}
+
+.img_3{
+  float: right;
+  display: flex;
+  margin-right: 90px;
+
+}
+
+.img_4{
+  float: right;
+  margin-right: 100px;
+  
+}
+
+.imgContainer{
+  margin-top:170px;
+  
+ }
+.main-message{
+  margin-top: 450px;
+  text-align: center;
+  margin-left: 30px;
+  font-family: MyFont1;
+  font-size: 20px;
+  color: rgb(154, 145, 21);
+}
+
+.box_1{
+  background-color: #404f24;
+  margin-top: 150px;
+  height: 850px;
+  border-radius: 20px;
+}
+
+.img_5{
+  float: right;
+  padding-right: 250px;
+  margin-top: 100px;
+}
+
+.img_6{
+  float: left;
+  padding-left: 250px;
+  margin-top: 100px;
+  }
+
+.message2{
+  text-align: center;
+  font-family: myFont2;
+  padding-top: 650px;
+  padding-left: 30px;
+  font-size: 40px;;
+  color: rgb(207, 240, 215);
+}
+
+.Middleman1{
+  text-align: center;
+  font-family: myFont;
+  margin-top: 30px;
+  font-size: 30px;
+  padding-left: 50px;
+}
+.box_2{
+   margin-top: 30px;
+   margin-left: 100px;
+}
+.description1{
+  font-family: myFont3;
+  font-size: 20px;
+}
+.text1{
+  padding-right: 260px;
+  float: right;
+}
+
+.text2{
+  float: right;
+  padding-right: 150px;
+
+}
+
+.text3{
+  float: right;
+  padding-right: 150px;
+}
+
+.text4{
+  float: right;
+
+}
+.Middleman2{
+  text-align: center;
+  font-family: myFont;
+  margin-top: 70px;
+  font-size: 30px;
+  padding-left: 10px;
+}
+footer{
+  padding-top: 100px;
+  text-align: center;
+  padding-left: 50px;
+  font-family: myFont4;
+}

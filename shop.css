@@ -1,0 +1,108 @@
+@font-face {
+    font-family: myFont;
+    src: url(Chi.ttf);
+  }
+  @font-face {
+    font-family: myFont1;
+    src: url(Script.ttf);
+  }
+  
+  @font-face {
+    font-family: myFont2;
+    src: url(Jinks.ttf);
+  }
+  @font-face {
+    font-family: myFont3;
+    src: url(Matic.TTF);
+  }
+  @font-face {
+    font-family: myFont4;
+    src: url(Frank.otf);
+  }
+  .logo{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: 30px;
+  }
+  
+  .container{
+    list-style: none;
+    display: flex;
+    font-size: 25px;
+   
+  }
+  .items{
+    padding-right: 30px;
+    margin-top: 40px;
+    
+  }
+  .items a{
+    color: black;
+    font-weight: 100;
+    text-decoration: none;
+    font-family: myFont;
+  }
+  
+  .items a:hover{
+    color: #404f24;
+  }
+
+.logo_1{
+    float: right;
+    padding-right: 600px;
+    margin-top: 100px;
+}
+
+.bottomtext{
+    text-align: center;
+    padding-top: 250px;
+    padding-left: 2px;
+    font-family: myFont;
+    font-size: 40px;
+}
+.description1{
+    font-family: myFont3;
+    font-size: 20px;
+  }
+  .box_2{
+    margin-top: 30px;
+    margin-left: 100px;
+ }
+
+ .text1{
+   padding-right: 260px;
+   float: right;
+ }
+ 
+ .text2{
+   float: right;
+   padding-right: 150px;
+ 
+ }
+ 
+ .text3{
+   float: right;
+   padding-right: 150px;
+ }
+ 
+ .text4{
+   float: right;
+   padding-right: 200px;
+ }
+
+ .text5{
+    float: right;
+    padding-right: 160px;
+ }
+ .text6{
+    float: right;
+    padding-right: 220px;
+ }
+
+ footer{
+    padding-top: 100px;
+    text-align: center;
+    padding-left: 50px;
+    font-family: MYfont4;
